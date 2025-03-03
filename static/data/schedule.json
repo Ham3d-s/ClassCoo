@@ -1,0 +1,3544 @@
+{
+  "fields": [
+    {
+      "id": "فنآوری_اطلاعات_-_امنیت_اطلاعات",
+      "name": "فنآوری اطلاعات - امنیت اطلاعات"
+    },
+    {
+      "id": "فنآوری_اطلاعات_-_شبکه_های_رایانه_ای",
+      "name": "فنآوری اطلاعات - شبکه های رایانه ای"
+    },
+    {
+      "id": "فنآوری_اطلاعات_-_فنآوری_اطلاعات",
+      "name": "فنآوری اطلاعات - فنآوری اطلاعات"
+    },
+    {
+      "id": "فنآوری_اطلاعات_-برنامه_سازی_وب",
+      "name": "فنآوری اطلاعات -برنامه سازی وب"
+    },
+    {
+      "id": "مهندسی_فناوری_علوم_داده",
+      "name": "مهندسی فناوری علوم داده"
+    },
+    {
+      "id": "کاردانی_حرفه_ای_مدیریت_کسب_و_کار",
+      "name": "کاردانی حرفه ای مدیریت کسب و کار"
+    },
+    {
+      "id": "کاردانی_حرفه‌ای_حسابداری_امور_مالی",
+      "name": "کاردانی حرفه‌ای حسابداری امور مالی"
+    },
+    {
+      "id": "کاردانی_فنی_اینترنت_اشیا",
+      "name": "کاردانی فنی اینترنت اشیا"
+    },
+    {
+      "id": "کاردانی_فنی_اینترنت_و_شبکه‌های_گسترده",
+      "name": "کاردانی فنی اینترنت و شبکه‌های گسترده"
+    },
+    {
+      "id": "کاردانی_فنی_اینترنت_و_شبکه‌های_گسترده_-_گروه_1",
+      "name": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1"
+    },
+    {
+      "id": "کاردانی_فنی_اینترنت_و_شبکه‌های_گسترده_-_گروه_2",
+      "name": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2"
+    },
+    {
+      "id": "کاردانی_فنی_برنامه‌سازی_کامپیوتری",
+      "name": "کاردانی فنی برنامه‌سازی کامپیوتری"
+    },
+    {
+      "id": "کاردانی_فنی_شبکه_های_رایانه_ای",
+      "name": "کاردانی فنی شبکه های رایانه ای"
+    },
+    {
+      "id": "کاردای_فنی_برنامه_سازی_کامپیوتری",
+      "name": "کاردای فنی برنامه سازی کامپیوتری"
+    },
+    {
+      "id": "کارشناسی_حرفه‌ای_مدیریت_شعب_بانک",
+      "name": "کارشناسی حرفه‌ای مدیریت شعب بانک"
+    },
+    {
+      "id": "کارشناسی_حرفه‌ای_مدیریت_کسب_و_کار",
+      "name": "کارشناسی حرفه‌ای مدیریت کسب و کار"
+    }
+  ],
+  "semesters": [
+    {
+      "id": 2,
+      "name": "ترم 2"
+    },
+    {
+      "id": 3,
+      "name": "ترم 3"
+    },
+    {
+      "id": 4,
+      "name": "ترم 4"
+    }
+  ],
+  "courses": [
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "اقتصاد خرد",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "کانال و ابزارهای خدمات بانکداری الکترونیک",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "13:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "اجرای اسناد",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "رضا",
+        "lastName": "ترحمی"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "مدیریت ریسک در عملیات",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهاب",
+        "lastName": "رضاییان"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "شیوه اعتبارسنجی مشتریان",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سعید",
+        "lastName": "شریفان"
+      },
+      "classroom": "کلاس 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "اعتبارات بانکی و مبانی پرداخت تسهیلات",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سعید",
+        "lastName": "شریفان"
+      },
+      "classroom": "کلاس 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "آشنایی با خدمات نوین بانکی در جهان",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "12:00",
+        "endTime": "13:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "نرم افزارهای کاربردی شعب",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "",
+        "lastName": "با آموزش هماهنگ شود"
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت شعب بانک",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "رفتارسازمانی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سعید",
+        "lastName": "شریفان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "اصول تنظیم و کنترل بودجه موسسات خدماتی و بازرگانی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "اصول و مبانی تولید",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "مدیریت ارتباط با مشتری (CRM)",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "هوشمندسازی مدیریت کسب و کار (BI)",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "سیرتی"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "پروژه کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "برنامه ریزی و طراحی کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "سیرتی"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "نقش و جایگاه واحدهای صنفی کوچک",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "سرپرستی واحدهای کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "زهره",
+        "lastName": "آهنگر"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "اصول و مبانی زنجیره تامین",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهاب",
+        "lastName": "رضاییان"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "خرید و فروش الکترونیکی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "کاربرد فناوری اطلاعات و ارتباطات",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 4,
+      "name": "پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 4,
+      "name": "پیاده سازی مدلهای تجارت الکترونیکی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": "احمدزاده"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 4,
+      "name": "تفسیر موضوعی نهج البلاغه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مصطفی",
+        "lastName": "غنچه"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 4,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 4,
+      "name": "کارورزی2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 4,
+      "name": "پروژه فناوری اطلاعات",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "طراحی تجربه کاربری ux",
+      "credits": null,
+      "professor": {
+        "firstName": "ابوالفضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "اصول و فنون مذاکره",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "وب سرویس ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوافضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کارگاه کامپیوتر 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 4,
+      "name": "پروژه برنامه سازی تحت وب",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 4,
+      "name": "مهارتهای مسئله یابی و تصمیم گیری",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 4,
+      "name": "اصول و فنون مذاکره",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:30",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 4,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 4,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 4,
+      "name": "پروژه امنیت اطلاعات",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 4,
+      "name": "امنیت و مدیریت شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهمن",
+        "lastName": "افشار"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 4,
+      "name": "سوییچینگ و مسیریابی پیشرفته",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سجاد",
+        "lastName": "حاج شاه ولدی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 4,
+      "name": "پروژه شبکه های رایانه ای",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 4,
+      "name": "اخلاق حرفه ای",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 4,
+      "name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شبنم",
+        "lastName": "رضایی عباسی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 4,
+      "name": "اندیشه اسلامی 1",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 4,
+      "name": "گزارش نویسی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهره",
+        "lastName": "شکوهی"
+      },
+      "classroom": "کلاس10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 4,
+      "name": "زبان تخصصی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "کژال",
+        "lastName": "فیلی نژاد"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 4,
+      "name": "کارورزی2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "شناخت و پیکربندی ISP",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "محسن",
+        "lastName": "سلامی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "حریم خصوصی و امنیت اینترنت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "پیکربندی مسیریابهای شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علی",
+        "lastName": "قادری"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "مدیریت و سنجش شبکه های گسترده",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شبنم",
+        "lastName": "رضایی عباسی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "کارگاه مدیریت و سنجش شبکه های گسترده",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده",
+      "semester": 4,
+      "name": "کارورزی2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "اندیشه اسلامی 1",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "حسابداری مالی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "زهرا",
+        "lastName": "محمدحسینی"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "حسابداری و حسابرسی بخش عمومی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "حسابداری مالیاتی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "زهرا",
+        "lastName": "محمدحسینی"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "برنامه ریزی و بودجه  واحدهای خدماتی و بازرگانی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "قوانین مالی و محاسباتی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "مبانی کنترل و تصمیمات مالی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "با آموزش هماهنگ شود",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 4,
+      "name": "کارورزی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "امنیت مراکز داده",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "تفسیر موضوعی نهج البلاغه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مصطفی",
+        "lastName": "غنچه"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "امنیت بانکهای اطلاعاتی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "امنیت در سیستم عامل",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محسن",
+        "lastName": "سلامی"
+      },
+      "classroom": "کلاس 8",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "مدیریت وضعیت امنیتی سازمان",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "مهرداد",
+        "lastName": "جنگجو"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "روشهای آزمون نفوذ در شبکه ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهمن",
+        "lastName": "افشار"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 3,
+      "name": "مهندسی نرم افزار امن",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علی",
+        "lastName": "قادری"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "امنیت و مدیریت شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهمن",
+        "lastName": "افشار"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "سوییچینگ و مسیریابی پیشرفته",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سجاد",
+        "lastName": "حاج شاه ولدی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "نصب و راه اندازی سیستمهای voip",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علی",
+        "lastName": "قادری"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "مبانی رایانش ابری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "نصب و  پیکربندی تجهیزات شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "معماری و طراحی شبکه ای رایانه ای",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "محسن",
+        "lastName": "سلامی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 3,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "آزمون و اشکال زدایی برنامه ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "طراحی تجربه کاربری ux",
+      "credits": null,
+      "professor": {
+        "firstName": "ابوالفضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "مبانی طراحی و توسعه نرم افزارها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوالفضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "سکوهای برنامه نویسی سمت سرور 2",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "تفسیر موضوعی نهج البلاغه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مصطفی",
+        "lastName": "غنچه"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "اصول و فنون مذاکره",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "وب سرویس ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوافضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کارگاه کامپیوتر 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 3,
+      "name": "کارورزی 1",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "",
+        "lastName": ""
+      },
+      "classroom": null,
+      "schedule": null
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "کاربرد فناوری اطلاعات در سازمان",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سعید",
+        "lastName": "شریفان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "نمایه سازی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهره",
+        "lastName": "شکوهی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "مدیریت خدمات فناوری اطلاعات",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "شهاب",
+        "lastName": "رضاییان"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "خدمات ارزش افزوده",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "مهارتهای مسئله یابی و تصمیم گیری",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "مهندسی نرم افزار",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سلطان باغشاهی"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 3,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "فارسی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "محمدی بخش"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "مدار الکتریکی و الکترونیکی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "آزمایشگاه مدار الکتریکی و الکترونیکی",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "آزمایشگاه",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "برنامه نویسی مقدماتی پایتون",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "میکرو کنترلر",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مرضیه",
+        "lastName": "علوی"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "آزمایشگاه میکرو کنترلر",
+      "credits": null,
+      "professor": {
+        "firstName": "مرضیه",
+        "lastName": "علوی"
+      },
+      "classroom": "آزمایشگاه",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "اندیشه اسلامی 1",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "مبانی ارتباطات و مخابرات اینترنت اشیا",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت اشیا",
+      "semester": 3,
+      "name": "کارگاه ارتباطات و مخابرات اینترنت اشیا",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "آزمایشگاه",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "برنامه سازی تحت وب",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "پایگاه داده ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سمیه",
+        "lastName": "سلطان باغشاهی"
+      },
+      "classroom": "کارگاه کامپیوتر 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "برنامه سازی سیستم",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوافضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "برنامه نویسی بصری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوافضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "برنامه سازی شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "ساختمان و زبان ماشین",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سیداحمد",
+        "lastName": "پوررضااحمدی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 3,
+      "name": "گزارش نویسی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهره",
+        "lastName": "شکوهی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 2,
+      "name": "امنیت و مدیریت شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهمن",
+        "lastName": "افشار"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 2,
+      "name": "سوییچینگ و مسیریابی پیشرفته",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سجاد",
+        "lastName": "حاج شاه ولدی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 2,
+      "name": "نصب و راه اندازی سیستمهای voip",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علی",
+        "lastName": "قادری"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 2,
+      "name": "مبانی رایانش ابری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 2,
+      "name": "نصب و  پیکربندی تجهیزات شبکه",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - شبکه های رایانه ای",
+      "semester": 2,
+      "name": "معماری و طراحی شبکه های رایانه ای",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "محسن",
+        "lastName": "سلامی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "کاربرد فناوری اطلاعات در سازمان",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سعید",
+        "lastName": "شریفان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "نمایه سازی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهره",
+        "lastName": "شکوهی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "مدیریت خدمات فناوری اطلاعات",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "شهاب",
+        "lastName": "رضاییان"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "خدمات ارزش افزوده",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "برنامه سازی تحت وب",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "مهندسی نرم افزار",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سلطان باغشاهی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "مدیریت ارتباط با مشتری",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "سیرتی"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - فنآوری اطلاعات",
+      "semester": 2,
+      "name": "ورزش 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "آزمون و اشکال زدایی برنامه ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "مبانی طراحی و توسعه نرم افزارها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوالفضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "طراحی تجربه کاربری ux",
+      "credits": null,
+      "professor": {
+        "firstName": "ابوالفضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "سکوهای برنامه نویسی سمت سرور 2",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "بهینه سازی موتورهای جستجو (SEO)",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "ابوافضل",
+        "lastName": "نوروزیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "اصول و فنون مذاکره",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "روش های برنامه نویسی وب",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات -برنامه سازی وب",
+      "semester": 2,
+      "name": "ورزش 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "امنیت مراکز داده",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "تفسیر موضوعی نهج البلاغه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مصطفی",
+        "lastName": "غنچه"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "امنیت بانکهای اطلاعاتی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "امنیت در سیستم عامل",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محسن",
+        "lastName": "سلامی"
+      },
+      "classroom": "کلاس 8",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "مدیریت وضعیت امنیتی سازمان",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "مهرداد",
+        "lastName": "جنگجو"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "روشهای آزمون نفوذ در شبکه ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهمن",
+        "lastName": "افشار"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "فنآوری اطلاعات - امنیت اطلاعات",
+      "semester": 2,
+      "name": "مهندسی نرم افزار امن",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علی",
+        "lastName": "قادری"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "مهارتهای مسئله یابی و تصمیم گیری",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "کنترل پروژه",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "برنامه نویسی پایتون",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "محاسبات ابری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "شهلا",
+        "lastName": "نجفلو"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "امنیت داده",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "طراحی پایگاه داده رابطه ای",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سمیه",
+        "lastName": "سلطان باغشاهی"
+      },
+      "classroom": "کارگاه کامپیوتر 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "مهندسی فناوری علوم داده",
+      "semester": 2,
+      "name": "ورزش 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "مدیریت ارتباط با مشتری (CRM)",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اندیشه اسلامی 2",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اصول تنظیم و کنترل بودجه موسسات خدماتی و بازرگانی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اصول و مبانی تولید",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "مدیریت ریسک در کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهاب",
+        "lastName": "رضاییان"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "تحلیل محیط کسب و کارهای کوچک و متوسط در ایران",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "مرادی حقیقی"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اقتصاد",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اصول و فنون مذاکره",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "حسن",
+        "lastName": "دولت آبادی"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "رفتارسازمانی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سعید",
+        "lastName": "شریفان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کارشناسی حرفه‌ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "ورزش 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "مبانی علوم اقتصادی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "حسابداری شرکتهای غیر سهامی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "زهرا",
+        "lastName": "محمدحسینی"
+      },
+      "classroom": "کلاس 8",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "کاربرد فناوری اطلاعات و ارتباطات",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "فارسی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "محمدی بخش"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "زبان تخصصی حسابداری",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مهناز",
+        "lastName": "توفیقی"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "مهارتها و قوانین کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "مرادی حقیقی"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20\"00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "آمار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه‌ای حسابداری امور مالی",
+      "semester": 2,
+      "name": "قوانین مالی و محاسباتی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس 4",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "مهارتها و قوانین کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "مرادی حقیقی"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "نقش و جایگاه واحدهای صنفی کوچک",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "سرپرستی واحدهای کسب و کار",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "زهره",
+        "lastName": "آهنگر"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اصول و مبانی زنجیره تامین",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهاب",
+        "lastName": "رضاییان"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "خرید و فروش الکترونیکی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "علیرضا",
+        "lastName": "درخشان"
+      },
+      "classroom": "کلاس 9",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "کاربرد فناوری اطلاعات و ارتباطات",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "اصول علم ااقتصاد",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "فرشاد",
+        "lastName": "پرویزیان"
+      },
+      "classroom": "کلاس12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "فارسی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "محمدی بخش"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی حرفه ای مدیریت کسب و کار",
+      "semester": 2,
+      "name": "تربیت بدنی 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "فارسی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "محمدی بخش"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "مدار الکتریکی و الکترونیکی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "آزمایشگاه مدار الکتریکی و الکترونیکی",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "آزمایشگاه",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "برنامه نویسی مقدماتی پایتون",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "شبکه های کامپیوتری",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سجاد",
+        "lastName": "حاج شاه ولدی"
+      },
+      "classroom": "کلاس 3",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شبنم",
+        "lastName": "رضایی عباسی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "گزارش نویسی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهره",
+        "lastName": "شکوهی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "اندیشه اسلامی 1",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سید جواد",
+        "lastName": "نعمتی"
+      },
+      "classroom": "کلاس 5",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی شبکه های رایانه ای",
+      "semester": 2,
+      "name": "تربیت بدنی 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "کارگاه لینوکس",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "اخلاق حرفه ای",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "مدارهای منطقی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "احسان",
+        "lastName": "سلیمانی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "شبکه های کامپیوتری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "کارگاه طراحی صفحات وب",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "زبان تخصصی اینترنت",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "مهناز",
+        "lastName": "توفیقی"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "اصول سرپرستی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "زهره",
+        "lastName": "آهنگر"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "کارآفرینی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "مرادی حقیقی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شبنم",
+        "lastName": "رضایی عباسی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 2",
+      "semester": 2,
+      "name": "تربیت بدنی 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "ساختمان داده ها",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سجاد",
+        "lastName": "حاج شاه ولدی"
+      },
+      "classroom": "کلاس 12",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "برنامه نویسی شی گرا",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سمیه",
+        "lastName": "سلطان باغشاهی"
+      },
+      "classroom": "کارگاه کامپیوتر 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "شبکه های کامپیوتری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "ساختمان و زبان ماشین",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "سیداحمد",
+        "lastName": "پوررضااحمدی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شبنم",
+        "lastName": "رضایی عباسی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "گزارش نویسی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شهره",
+        "lastName": "شکوهی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "اصول طراحی صفحات وب",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی برنامه‌سازی کامپیوتری",
+      "semester": 2,
+      "name": "تربیت بدنی 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردای فنی برنامه سازی کامپیوتری",
+      "semester": 2,
+      "name": "زبان تخصصی",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "مهناز",
+        "lastName": "توفیقی"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "کارگاه لینوکس",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "بهاره",
+        "lastName": "میرزایی"
+      },
+      "classroom": "کارگاه کامپیوتر 1",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "08:00",
+        "endTime": "10:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "اخلاق حرفه ای",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "محمدرضا",
+        "lastName": "فرزام"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "مدارهای منطقی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "احسان",
+        "lastName": "سلیمانی"
+      },
+      "classroom": "کلاس 10",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "شبکه های کامپیوتری",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "سارنگ",
+        "lastName": "قربانیان"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "کارگاه طراحی صفحات وب",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "سید امید",
+        "lastName": "صفوی"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "زبان تخصصی اینترنت",
+      "credits": 3.0,
+      "professor": {
+        "firstName": "مهناز",
+        "lastName": "توفیقی"
+      },
+      "classroom": "کلاس 7",
+      "schedule": {
+        "day": "سه شنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "اصول سرپرستی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "زهره",
+        "lastName": "آهنگر"
+      },
+      "classroom": "کلاس 6",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "کارآفرینی",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "مسعود",
+        "lastName": "مرادی حقیقی"
+      },
+      "classroom": "سالن اجتماعات",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "12:00",
+        "endTime": "14:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "دانش خانواده و جمعیت",
+      "credits": 2.0,
+      "professor": {
+        "firstName": "شبنم",
+        "lastName": "رضایی عباسی"
+      },
+      "classroom": "کلاس 2",
+      "schedule": {
+        "day": "پنجشنبه",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    },
+    {
+      "field": "کاردانی فنی اینترنت و شبکه‌های گسترده - گروه 1",
+      "semester": 2,
+      "name": "تربیت بدنی 1",
+      "credits": 1.0,
+      "professor": {
+        "firstName": "لیلا",
+        "lastName": "سرتیپی"
+      },
+      "classroom": "کلاس 11",
+      "schedule": {
+        "day": "دوشنبه",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      }
+    }
+  ]
+}

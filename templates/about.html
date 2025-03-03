@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1a1c2c">
+    <title>درباره ما - کلاس‌کو</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body class="p-4">
+    <div class="container mx-auto max-w-2xl">
+        <div class="glass">
+            <h1 class="text-3xl font-bold text-white mb-6 text-center">درباره برنامه</h1>
+            
+            <div class="text-white space-y-4">
+                <p class="mb-4">
+                    نسخه: 3.0.0 (1403/12/03)
+                </p>
+                
+                <h2 class="text-xl font-bold mb-2">امکانات و ویژگی‌ها:</h2>
+                <ul class="list-disc list-inside space-y-2">
+                    <li>نمایش برنامه کلاسی به تفکیک رشته و ترم</li>
+                    <li>نمایش تاریخ و ساعت به صورت شمسی</li>
+                    <li>امکان گرفتن اسکرین‌شات از برنامه</li>
+                    <li>طراحی واکنش‌گرا برای تمام دستگاه‌ها</li>
+                    <li>نمایش دروس بدون زمان‌بندی</li>
+                    <li>جستجوی پیشرفته با قابلیت تشخیص خطای تایپی</li>
+                </ul>
+
+                <h2 class="text-xl font-bold mt-6 mb-2">ویژگی‌های فنی:</h2>
+                <ul class="list-disc list-inside space-y-2">
+                    <li>طراحی مدرن با افکت شیشه‌ای (Glassmorphism)</li>
+                    <li>بهینه‌سازی برای سرعت بارگذاری</li>
+                    <li>سازگاری با تمام مرورگرهای مدرن</li>
+                    <li>پشتیبانی از حالت تاریک</li>
+                    <li>نمایش طبقه کلاس‌ها به صورت خودکار</li>
+                </ul>
+               
+                <div class="mt-8 text-center">
+                    <a href="/" class="btn-glass inline-block px-6 py-2 text-white rounded">
+                        بازگشت به صفحه اصلی
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

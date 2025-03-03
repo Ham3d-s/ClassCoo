@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1a1c2c">
+    <title>کلاس‌کو: برنامه کلاسی دانشگاه</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="{{ url_for('static', filename='js/persian-date.min.js') }}"></script>
+</head>
+<body class="p-4">
+    <div class="container mx-auto">
+        <!-- Header -->
+        <header class="glass">
+            <h1 class="text-2xl md:text-3xl font-bold text-white text-center mb-4">کلاس‌کو: برنامه کلاسی دانشگاه</h1>
+            <div id="persian-date" class="text-white text-center text-sm md:text-lg"></div>
+        </header>
+
+        <!-- Controls -->
+        <div class="glass">
+            <div id="selection-message" class="message mb-4"></div>
+            <div class="grid grid-cols-1 gap-4">
+                <select id="field-select" class="w-full rounded bg-white/20 text-white backdrop-blur">
+                    <option value="">انتخاب رشته</option>
+                </select>
+                <select id="semester-select" class="w-full rounded bg-white/20 text-white backdrop-blur">
+                    <option value="">انتخاب ترم</option>
+                </select>
+                <div class="grid grid-cols-2 gap-4 hidden-until-selection">
+                    <button onclick="resetSelections()" class="btn-glass text-white">
+                        ریست
+                    </button>
+                    <button onclick="takeScreenshot()" class="btn-glass text-white">
+                        اسکرین شات
+                    </button>
+                </div>
+                <button onclick="toggleSearch(event)" class="btn-glass text-white">
+                    <span class="flex items-center justify-center gap-2">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                        جستجوی پیشرفته
+                    </span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Search Panel -->
+        <div id="search-panel" class="glass hidden">
+            <div class="search-container">
+                <input type="text" 
+                       id="search-input" 
+                       class="search-input" 
+                       placeholder="جستجو بر اساس نام استاد، رشته یا کلاس..."
+                       autocomplete="off">
+                <div id="search-results" class="search-results hidden">
+                    <!-- Search results will be populated here -->
+                </div>
+            </div>
+        </div>
+        <div id="search-backdrop" class="search-backdrop" onclick="toggleSearch()"></div>
+
+        <!-- Schedule Table -->
+        <div id="schedule-container" class="glass hidden-until-selection">
+            <div id="schedule-content">
+                <div class="overflow-x-auto">
+                    <table class="schedule-table w-full text-white">
+                        <thead>
+                            <tr>
+                                <th class="whitespace-nowrap">روز</th>
+                                <th class="whitespace-nowrap">درس</th>
+                                <th class="whitespace-nowrap">استاد</th>
+                                <th class="whitespace-nowrap">زمان</th>
+                                <th class="whitespace-nowrap">کلاس</th>
+                                <th class="whitespace-nowrap">واحد</th>
+                            </tr>
+                        </thead>
+                        <tbody id="schedule-body"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Non-scheduled Courses -->
+        <div id="non-scheduled-container" class="glass hidden">
+            <h3 class="text-lg md:text-xl font-bold text-white mb-4">دروس بدون زمان‌بندی</h3>
+            <div id="non-scheduled-content" class="grid gap-4 md:grid-cols-2"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="glass text-white text-center">
+            <div class="mb-4">
+                <a href="#" onclick="showAbout(event)" class="text-white hover:underline">درباره برنامه</a>
+                <span class="mx-2">|</span>
+                <a href="https://github.com/Ham3d-s" target="_blank" class="text-white hover:underline">گیت‌هاب</a>
+                <span class="mx-2">|</span>
+                <a href="https://t.me/Ham3ds" target="_blank" class="text-white hover:underline">تلگرام</a>
+                <span class="mx-2">|</span>
+                <a href="https://x.com/ham3ds_" target="_blank" class="text-white hover:underline">توییتر(X)</a>
+
+            </div>
+            <div class="text-sm opacity-75">
+                ساخته شده توسط Ham3ds
+            </div>
+        </footer>
+
+        <!-- About Tooltip -->
+        <div id="about-tooltip" class="tooltip">
+            <h1 class="text-3xl font-bold text-white mb-6 text-center">درباره برنامه</h1>
+            <div class="text-white space-y-4">
+                <p class="mb-4">نسخه: 3.0.0 (1403/12/03)</p>
+                
+                <h2 class="text-xl font-bold mb-2">امکانات و ویژگی‌ها:</h2>
+                <ul class="list-disc list-inside space-y-2">
+                    <li>نمایش برنامه کلاسی به تفکیک رشته و ترم</li>
+                    <li>نمایش تاریخ و ساعت به صورت شمسی</li>
+                    <li>امکان گرفتن اسکرین‌شات از برنامه</li>
+                    <li>طراحی واکنش‌گرا برای تمام دستگاه‌ها</li>
+                    <li>نمایش دروس بدون زمان‌بندی</li>
+                    <li>جستجوی پیشرفته با قابلیت تشخیص خطای تایپی</li>
+                </ul>
+
+                <h2 class="text-xl font-bold mt-6 mb-2">ویژگی‌های فنی:</h2>
+                <ul class="list-disc list-inside space-y-2">
+                    <li>طراحی مدرن با افکت شیشه‌ای (Glassmorphism)</li>
+                    <li>بهینه‌سازی برای سرعت بارگذاری</li>
+                    <li>سازگاری با تمام مرورگرهای مدرن</li>
+                    <li>پشتیبانی از حالت تاریک</li>
+                    <li>نمایش طبقه کلاس‌ها به صورت خودکار</li>
+                </ul>
+
+                <div class="mt-8 text-center">
+                    <button onclick="hideAbout()" class="btn-glass">بستن</button>
+                </div>
+            </div>
+        </div>
+        <div id="tooltip-backdrop" class="tooltip-backdrop" onclick="hideAbout()"></div>
+    </div>
+
+    <!-- Loading indicator -->
+    <div id="loading" class="loading">
+        در حال تهیه اسکرین شات...
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
